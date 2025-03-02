@@ -8,5 +8,5 @@ This Java project is a space fleet management system that models different types
 - **Fleet Management**: Track and analyze different spacecraft and their attributes.
 
 ## Technologies Used 
-- Object-Oriented Programming (OOP)
+- Object-Oriented Programming (OOP) - You can view the complete inheritance diagram in `inheritance_diagram.pdf`.  
 - Java
